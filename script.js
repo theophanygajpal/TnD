@@ -81,6 +81,7 @@ const questionsAndDares = {
       "What’s your biggest turn-on?",
       "What’s a fantasy you’ve never shared before?",
       "Where do you love being kissed the most?",
+      "How do you imagine us in a room alone?",
     ],
     dares: [
       "Kiss your partner passionately for 30 seconds.",
